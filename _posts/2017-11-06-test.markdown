@@ -1,0 +1,8 @@
+{% highlight c %}
+int main(void)
+{
+	int a;
+	printf("a = %d\n", a);
+}
+
+{% endhighlight %}
